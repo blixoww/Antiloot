@@ -1,0 +1,5 @@
+name: AntiLoot
+version: '${project.version}'
+main: fr.idalia.antiloot.AntiLoot
+authors: [ blixow14 ]
+description: plugin d'antiloot
